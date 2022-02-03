@@ -8,13 +8,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
-html{
-  padding: 1rem;
-}
 h1 {
   font-family: 'Anton', sans-serif;
   font-size: 3.998rem;
-  padding-bottom: 2.827rem;
+  margin: 25px;
 }
 
 p {
