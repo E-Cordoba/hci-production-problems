@@ -7,3 +7,12 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+
+h1 {
+  font-family: 'Anton', sans-serif;
+}
+
+p {
+  font-family: 'Oswald', sans-serif;
+}
