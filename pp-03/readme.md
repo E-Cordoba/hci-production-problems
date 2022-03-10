@@ -33,11 +33,11 @@ Small commits to your Production Problems repository that include:
 * Describe how you implemented that guideline in your sketch: I implemented this guideline by adding hint text within the data input location better guide the user when it comes to creating a account.
   The previous version provided no example text so it might have been difficult to understand fully what they meant by a UI design point
 
-* HCI Guideline Two (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Two (URL):https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/
+* Describe how you implemented that guideline in your sketch: I implemented this guide line by using the color red as a attention grabber to required fields for account creation to make the process easier to complete. The previous design incorperated zero color making the page juts a bore to look at and might make users miss the required text for certain data fields.
 
-* HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/
+* Describe how you implemented that guideline in your sketch: I implemented this guideline by creating a quick bar for the creation process this would allow users to quickly be taken to a certain filed that might have a mistake and quickly fix it instead of having to scroll and find said mistake. The previous version of the site required constant scrolling to complete the form which might annoy the user so its made more convenient with a quick bar.
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
